@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-sandbox",
+  "version": "1.0.0",
+  "description": "This is a Node.js project.",
+  "main": "index.html",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
