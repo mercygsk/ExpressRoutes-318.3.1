@@ -1,11 +1,11 @@
 const express = require("express");
 const router = express.Router();
 
-//const comments = require("../data/comments");
+const comments = require("../data/comments");
 const error = require("../utilities/error");
 
 // Placeholder for comments data
-const comments = [];
+//const comments = [];
 
 // GET /comments
 router.get("/", (req, res) => {

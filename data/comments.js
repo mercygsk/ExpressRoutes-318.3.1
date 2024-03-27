@@ -1,3 +1,3 @@
 // Create a placeholder for comments data
 const comments = [];
-module.exports = users;
+module.exports = comments;
